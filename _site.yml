@@ -1,14 +1,26 @@
 name: "my-website"
 output_dir: "docs"
 navbar:
-  title: "My Website"
+  title: ""
   type: inverse
   left:
     - text: "Home"
       icon: fa-home
       href: index.html
-    - text: "About"
+    - text: "Projects"
+      icon: fa-folder-open-o
+      href: underConstruction.html
+    - text: "People"
+      icon: fa-user
+      href: underConstruction.html
+    - text: "Resources"
       icon: fa-info
+      href: underConstruction.html
+    - text: "Smeebu"
+      icon: fa-puzzle-piece
+      href: underConstruction.html
+    - text: "Contact"
+      icon: fa-phone
       href: about.html
     - text: "More"
       icon: fa-gear
