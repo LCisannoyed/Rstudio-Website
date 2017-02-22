@@ -1,5 +1,5 @@
 name: "RStudioWebsite"
-output_dir: "_site"
+output_dir: "."
 navbar:
   title: "My Website"
   type: inverse
