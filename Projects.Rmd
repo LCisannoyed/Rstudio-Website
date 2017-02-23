@@ -1,0 +1,23 @@
+---
+title: "EMS recent projects"
+output: html_document
+---
+
+The following section contains a brief overview of some recent EMS projects. Materials can be downloaded from the links provided for those projects with results available in the public domain.
+
+### National Assessment Program Science Literacy (2006-2015)
+
+Psychometric work in relation to the National Assessment Program: Science Literacy, including sampling, equating, test design, scaling of item responses, and the preparation of a report of findings and a database of results.
+
+
+### Expectations and Destinations of NSW Senior Secondary Students (2013)
+
+Computer assisted telephone interviews were used to collect information from a sample of NSW senior secondary students and their parents for this government funded study. Teachers at the same schools as sampled students also completed an online survey. EMS involvement, as a subcontractor to the University of Melbourne, included sample design, calculation of sample weights, data analysis and preparation of a technical report.
+
+### National Assessment Program Literacy and Numeracy (NAPLAN) (2008-2014)
+
+EMS has been involved annually in NAPLAN since the introduction of the assessment program in 2008 including sampling of schools and students for the central analysis of data (2012-2014), psychometric analysis and review of trial test items (2012-2014), data processing and reporting of student results to students and schools on behalf of Test Administration Authorities (Curriculum Corporation (2008), Victorian Curriculum and Assessment Authority (2008, 2009)).
+
+### Mapping Adult Literacy Frameworks (2012)
+
+In collaboration with Victoria University and NCVER, EMS empirically aligned the Australian Core Skills Framework to the international Adult Literacy and Life Skills Survey using survey methodologies and Item Response Theory.
