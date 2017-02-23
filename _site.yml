@@ -9,7 +9,7 @@ navbar:
       href: index.html
     - text: "Projects"
       icon: fa-folder-open-o
-      href: underConstruction.html
+      href: Projects.html
     - text: "People"
       icon: fa-user
       href: underConstruction.html
